@@ -1,0 +1,5 @@
+title: My Portfolio
+logo /images/avatar.jpg
+description: Example Image
+show_downloads: true
+theme: jekyll-theme-minimal
